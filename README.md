@@ -1,3 +1,3 @@
 # hello-world
-First repository
+Add somthing new
 Hi humans! It is my first step in GitHub...
